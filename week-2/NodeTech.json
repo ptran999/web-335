@@ -4,7 +4,7 @@
 		"firstName": "John",
 		"lastName": "Doe",
 		"enrollment": [ 
-            {
+        {
 			"term": "winter",
 			"gpa": 3.1,
 			"startDate": "01/08/2024",

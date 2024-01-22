@@ -4,29 +4,29 @@
 		"firstName": "John",
 		"lastName": "Doe",
 		"enrollment": [ 
-        {
+                  {
 			"term": "winter",
 			"gpa": 3.1,
 			"startDate": "01/08/2024",
 			"endDate": "03/10/2024",
 			"course": [ 
-                {
-                    "courseId": "Web-335",
-                    "description": "Intro to NoSQL",
-                    "instructor": "Richard Krasso",
-                    "score": 88,
-                    "letterGrade": "B+"
-                },
+                         {
+                            "courseId": "Web-335",
+                            "description": "Intro to NoSQL",
+                            "instructor": "Richard Krasso",
+                            "score": 88,
+                            "letterGrade": "B+"
+                          },
 
-                {
-                    "courseId": "Web-420",
-                    "description": "Rest APIs",
-                    "instructor": "Richard Krasso",
-                    "score": 99,
-                    "letterGrade": "A+"
-                }
-          ]
+                          {
+                             "courseId": "Web-420",
+                             "description": "Rest APIs",
+                             "instructor": "Richard Krasso",
+                             "score": 99,
+                             "letterGrade": "A+"
+                           }
+                     ]
 		}
-    ]
- }
+          ]
+    }
 }

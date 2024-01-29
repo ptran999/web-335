@@ -1,0 +1,43 @@
+{
+    "publisher_code": 10208,
+    "publisher_name": "Park Row",
+    "publisher_address": "507 Main Street",
+    "authors": [
+      {
+        "author_first_name ": "Heather",
+        "author_last_name": "Gudenkauf",
+        "author_phone": "1-800-000-0000",
+        "author_email": "heatherG@yahoo.com",
+        "books": [
+          {
+            "book_isbn": "1000011111222",
+            "book_name": "Not A Sound",
+            "book_price": 19.95
+          },
+          {
+            "book_isbn": "0211112225555",
+            "book_name": "The Weight of Silence",
+            "book_price": 12.99
+          }
+        ]
+      },
+      {
+        "author_first_name ": "James",
+        "author_last_name": "Patterson",
+        "author_phone": "1-600-000-0000",
+        "author_email": "james_patterson@aol.com",
+        "books": [
+          {
+            "book_isbn": "7000022288888",
+            "book_name": "The Summer House",
+            "book_price": 9.99
+          },
+          {
+            "book_isbn": "9111115555999",
+            "book_name": "Alex Cross Must Die",
+            "book_price": 14.99
+          }
+        ]
+      }
+    ]
+  }

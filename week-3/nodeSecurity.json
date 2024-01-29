@@ -1,0 +1,23 @@
+{
+  
+    "id": 101,
+    "roles": [
+      {
+        "admin": {
+          "permissions": {
+            "system": "no",
+            "profile": "yes"
+          }
+        }
+      },
+      {
+        "designer": {
+          "permissions": {
+            "system": "no",
+            "profile": "yes"
+          }
+        }
+      }
+    ]
+  
+}

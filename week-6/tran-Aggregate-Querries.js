@@ -12,31 +12,31 @@ db.students.find().forEach(printjson);
 
 // create a new document
 db.students.insertOne({
-  firstName: 'Jake',
-  lastName: 'Jacobs',
+  firstName: 'Phuong',
+  lastName: 'Tran',
   studentId: 's9999',
   houseId: 'h1007'
 });
 
 // find a specific document
 db.students.find({
-  firstName: 'Jake',
-  lastName: 'Jacobs'
+  firstName: 'Phuong',
+  lastName: 'Tran'
 })
 .forEach(printjson);
 
 // delete a specific document
 db.students.deleteOne({
-  firstName: 'Jake',
-  lastName: 'Jacobs',
+  firstName: 'Phuong',
+  lastName: 'Tran',
   studentId: 's9999',
   houseId: 'h1007'
 });
 
 // look up a specific document
 db.students.find({
-  firstName: 'Jake',
-  lastName: 'Jacobs'
+  firstName: 'Phuong',
+  lastName: 'Tran'
 })
 .forEach(printjson);
 
